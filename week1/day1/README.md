@@ -1,5 +1,7 @@
 # Day 1: SDLC & GitHub Setup
 
+# Day 1: SDLC & GitHub Documentation
+
 ## 🎯 Learning Objectives
 
 - Understand Software Development Life Cycle (SDLC) and Agile methodologies
